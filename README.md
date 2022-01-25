@@ -1,1 +1,2 @@
-![](https://cdn.discordapp.com/emojis/927234706242682890.webp)
+## Metrics
+![Metrics](https://github.com/RGBCube/RGBCube/blob/main/github-metrics.svg)
