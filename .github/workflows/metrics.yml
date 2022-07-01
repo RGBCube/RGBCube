@@ -1,7 +1,9 @@
-name: Metrics
+name: Generate Metrics
+
 on:
   schedule:
     - cron: "0 */4 * * *"
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
