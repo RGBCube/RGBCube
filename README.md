@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/RGBCube/RGBCube/blob/main/github-metrics.svg" alt="github-metrics.svg"/>
+  <img src="https://github.githubassets.com/images/icons/emoji/trollface.png" alt="trollface"/>
 </p>
