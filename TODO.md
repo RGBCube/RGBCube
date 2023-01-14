@@ -1,15 +1,16 @@
 Here is the stuff that I eventually want to do.
 
 ### Finish chatgpt.v.
-### Finish revolt.v
+### Finish revolt.v.
 ### Finish cs-assignments interactive_runner.
 ### Make Clutter real again.
 ### Finish Burst.
 ### Rewrite StupidityDB and the Discord bot.
+### Make a typewriter text editor.
 ### Make a script to sync labels on a repo on GitHub with the parent organization.
 ### Make Cull.
 ### Make a good Minecraft Server (Skulk Network).
-### HTML Preprocessor
+### Make a HTML Preprocessor
 ```kt
 html(lang = "en") {
     head {
